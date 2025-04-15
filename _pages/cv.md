@@ -44,12 +44,12 @@ Major: Bachelor of Arts in Chinese Language and Literature
 
 ## INTERNSHIP EXPERIENCE
 
-### Financial Assistant, Finance Office of Fangli Town *(Sept 2023 - Nov 2023)*
+### Financial Assistant, Finance Office  *(Sept 2023 - Nov 2023)*
 - Attended to the organization and binding of accounting vouchers, reviewed expense reimbursement forms, and assisted in consolidating financial income and expenditure budgets
 - Coordinated in financial documents and coordinating with relevant departments, including liaison work with institutions such as banks and tax authorities
 
 
-### Office Assistant, People's Government of Fangli Town *(Jul 2022 - Sept 2022)*
+### Office Assistant, People's Government  *(Jul 2022 - Sept 2022)*
 - Assisted in drafting and organizing various work summaries, meeting minutes, correspondence responses, news releases, and internal event documents
 - Managed day-to-day administrative tasks, including overseeing expense allocation, office supplies procurement, expense reporting, and document archiving
 
