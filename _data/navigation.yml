@@ -13,16 +13,16 @@ main:
   
     
   - title: "Game Design"
-    url: /about/page/portfolio.html/
+    url: /about/pages/portfolio.html/
         
   - title: "CV"
     url: /cv/
 
   - title: "Photo Collection"
-    url: /about/page/talks.html/    
+    url: /about/pages/talks.html/    
 
   - title: "Other projects"
-    url: /about/page/teaching.html/  
+    url: /about/pages/teaching.html/  
     
   # - title: "CV"
   #   url: /cv-json/
